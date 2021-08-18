@@ -1,0 +1,27 @@
+*{
+    background-color: darkgrey;
+}
+
+.cal-body {
+    background-color: #fff;
+    width: 340px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px 10px;
+}
+
+.rows {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.rows input {
+    color: black;
+    background-color: #fff;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    width: 75px;
+    height: 60px;
+    font-size: 30px;
+}
